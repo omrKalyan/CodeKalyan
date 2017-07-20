@@ -1,1 +1,2 @@
-this is a test message created during gitRepo on 20.Jul.2017
+this is a modified message done on 
+the same day 20.Jul.2017.
